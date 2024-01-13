@@ -1,0 +1,33 @@
+
+MENU APLIKASI INVENTORY + "POS *kalau kuat ygy"
+
+1. Dashboard
+2. Barang
+    2.1 Data Barang
+    2.2 Tambah Barang
+3. Supplier 
+    3.1 Data Supplier
+    3.2 Tambah Supplier
+4. Stock
+    4.1 Stock Barang 
+    4.2 Stock Masuk
+    4.3 Stock Keluar
+5. Report / Laporan
+6. Kelola User
+
+Note: Jika waktunya cukup bisa coba menambahkan 
+1. Menu Import Data 
+2. Menu untuk Backup Data 
+3. Menu POS (Point Of Sales) / Menu Penjualan 
+4. Menu retur
+5. Kode barang nyesuain dengan barang yg satu dengan yg lainnya
+    Contoh :
+        Kode barang  |    Barang
+    ---------------------------------
+    211001           |- Baju    
+    212001           |- Celana
+    ---------------------------------
+    21 : Tahun input data nya
+    10 : kode untuk baju
+    20 : Kode untuk celana
+    01 : no urut daftar barangnya
